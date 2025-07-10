@@ -1,4 +1,8 @@
----
+
+<div align="center">
+<h1 align="center">Kit de Utilitários para E-commerce</h1>
+</div>
+
 
 ## 💻 Sobre o Projeto
 
@@ -19,7 +23,8 @@ Ideal para quem quer criar scripts práticos e eficientes.
 
 ## ⚙️ Tecnologias Utilizadas
 
-- Node.js (ES Modules)
+- ![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+ Node.js (ES Modules)
 - `prompt` para input no terminal
 - `qrcode` para geração de códigos QR
 - `crypto` para hashing e criptografia
@@ -116,11 +121,3 @@ Projeto inspirado na formação da DIO (Digital Innovation One) e complementado 
 - Plataforma: [DIO](https://www.dio.me/)
 
 ---
-
-echo "# Kit-de-Utilit-rios-para-E-commerce"
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/brunoplatcheck/Kit-de-Utilit-rios-para-E-commerce.git
-git push -u origin main
